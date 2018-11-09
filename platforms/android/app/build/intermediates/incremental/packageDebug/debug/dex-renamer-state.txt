@@ -1,4 +1,4 @@
-#Sat Jul 28 22:52:03 IRDT 2018
-base.0=C\:\\Users\\HamidReza\\Desktop\\New folder\\MyAPP\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Fri Nov 09 15:13:22 IRST 2018
+base.0=C\:\\Users\\HamidReza\\Desktop\\Shiraz-Subway-Train-Map-MobileApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
-file.0=C\:\\Users\\HamidReza\\Desktop\\New folder\\MyAPP\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+file.0=C\:\\Users\\HamidReza\\Desktop\\Shiraz-Subway-Train-Map-MobileApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

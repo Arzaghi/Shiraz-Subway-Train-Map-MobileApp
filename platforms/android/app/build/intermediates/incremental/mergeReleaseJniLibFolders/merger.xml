@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\HamidReza\Desktop\New folder\MyAPP\platforms\android\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\HamidReza\Desktop\New folder\MyAPP\platforms\android\app\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\HamidReza\Desktop\Shiraz-Subway-Train-Map-MobileApp\platforms\android\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\HamidReza\Desktop\Shiraz-Subway-Train-Map-MobileApp\platforms\android\app\src\release\jniLibs"/></dataSet></merger>
