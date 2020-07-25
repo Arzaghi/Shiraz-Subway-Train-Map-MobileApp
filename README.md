@@ -1,8 +1,10 @@
 # Shiraz Subway Train Map MobileApp
 
 <h3>Demo</h3>
-This application is currently available for Android at:
-https://myket.ir/app/com.hamidrezaarzaghi.shirazsubway
+This application is currently available for Android: 
+
+* [Google Play](https://play.google.com/store/apps/details?id=com.hamidrezaarzaghi.shirazsubway)
+* [Myket](https://myket.ir/app/com.hamidrezaarzaghi.shirazsubway)
 
 <h3>
   Motivation
